@@ -33,7 +33,7 @@
     "photoswipe": "^5.3.7",
     "postcss": "^8.4",
     "prettier": "^3.0",
-    "sass": "^1.63",
+    "sass": "^1.69.5",
     "sl-vue-tree": "^1.8.2",
     "swiper": "^9.4",
     "vite": "^4.3.0",
